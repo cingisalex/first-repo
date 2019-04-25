@@ -1,4 +1,3 @@
-# first-repo
 This repo introduces some first simple steps in the *version control system git*. However, before I start, I would like to recomend the following link:
 ```
 https://medium.com/@QuantumBlack/data-scientists-the-only-useful-code-is-production-code-8b4806f2fe75
