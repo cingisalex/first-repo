@@ -10,7 +10,7 @@ The repository and article were created by *QuantumBlack*.
 
 ### -----to short user manual-----
 **1st Scenario**:
-We clone this repo to our local machine and create a dev branch. Afterwards, we swicht to the dev branch and initiate a new branch.
+We clone this repo to our local machine and create a dev branch. Afterwards, we switch to the dev branch and initiate a new branch.
 ```
 $git clone https://github.com/cingisalex/first-repo.git 
 $git checkout -b dev
